@@ -13,6 +13,14 @@ nav{
   justify-content: space-around;
 }
 
+.homepage p{
+  font-size: 22px;
+}
+
+.home-bg{
+  background-color: rgb(92, 207, 200);
+}
+
 .doug{
   font-family: 'Indie Flower', cursive;
   
@@ -26,9 +34,42 @@ nav{
 
 
 .doug h2{
-  color: green;
+  color: limegreen;
   font-size: 55px;
   margin: 0;
+}
+
+.doug h3{
+  font-size:28px;
+  color: mediumblue;
+  font-style: italic;
+}
+
+.doug h4{
+  font-size:20px;
+  
+}
+
+.doug li{
+  color: blueviolet ;
+  font-size: 22px;
+}
+
+.doug p{
+  color: blueviolet ;
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 55px;
+}
+
+.doug img{
+margin-top: 30px;
+
+}
+
+.doug-bg{
+  background-color: lavender;
+
 }
 
 .sabrina{
@@ -47,6 +88,7 @@ nav{
 .aboutme-list {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 1.5rem;
+  
 }
 
 .tam-intro {
