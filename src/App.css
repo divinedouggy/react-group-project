@@ -1,12 +1,10 @@
-.App {
-
+.App{
   text-align: center;
 }
 
 .header{
 display: flex;
 flex-direction: column;
-
 margin: 20px;
 }
 
@@ -14,6 +12,7 @@ nav{
   display: flex;
   justify-content: space-around;
 }
+<<<<<<< HEAD
 .wrapper {
   background-image: linear-gradient(to left, #ff96d1, #eaa0df, #d5a9e6, #c2b0e8, #b4b6e4, #a6b6df, #9ab6d8, #93b5cf, #82b0c5, #73abb9, #68a5ab, #619f9b);
   display: flex;
@@ -26,3 +25,50 @@ nav{
   color: #008E9B
 
 }
+=======
+
+.doug{
+  font-family: 'Indie Flower', cursive;
+  
+}
+
+.doug h1{
+  color: purple;
+  font-size: 77px;
+  margin: 0;
+}
+
+
+.doug h2{
+  color: green;
+  font-size: 55px;
+  margin: 0;
+}
+
+.sabrina{
+  text-align: center;
+}
+
+
+.tamera{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.aboutme-list {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+.tam-intro {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+.tam-bg{
+  background-color: rgb(247, 225, 167);
+}
+>>>>>>> main/main

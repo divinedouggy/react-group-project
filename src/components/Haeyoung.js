@@ -23,7 +23,7 @@ function Haeyoung() {
   return (<div className="wrapper">
     <div>
       {data}
-    <p>Here is my favoriate song I often listen to </p> 
+    <p>Here are my favoriate songs I often listen to </p> 
     </div>
     <div className="youtube">
 
