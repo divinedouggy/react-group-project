@@ -12,6 +12,20 @@ nav{
   display: flex;
   justify-content: space-around;
 }
+<<<<<<< HEAD
+.wrapper {
+  background-image: linear-gradient(to left, #ff96d1, #eaa0df, #d5a9e6, #c2b0e8, #b4b6e4, #a6b6df, #9ab6d8, #93b5cf, #82b0c5, #73abb9, #68a5ab, #619f9b);
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+.wrapper p{
+  font-size: larger;
+  font-family: sans-serif;
+  color: #008E9B
+
+}
+=======
 
 .homepage p{
   font-size: 22px;
@@ -99,3 +113,4 @@ margin-top: 30px;
 .tam-bg{
   background-color: rgb(247, 225, 167);
 }
+>>>>>>> main/main
