@@ -5,7 +5,7 @@ import './AboutSabrina.css';
 
 function Sabrina() {
     return (
-        <div>
+        <div className='sabrina'>
             <h1>About Sabrina</h1>
             <h2>I like listening to music and watching YouTube.</h2>
             <h2>I also like traveling and visiting new places.</h2>
